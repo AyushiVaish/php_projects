@@ -1,0 +1,26 @@
+                       Abstract:
+Data analytics is useful for prediction from more information and it helps  medical  centre  to  predict 
+ of  various  disease.  Huge amount of patient related data is maintained on monthly basis.
+ The  stored  data  can be  useful  for  source of  predicting  the occurrence  of future  disease. 
+ Some of  the data  mining  and machine  learning  techniques  are  used  to  predict  the  heart disease, 
+ such as  Artificial Neural  Network (ANN), Decision tree, Fuzzy Logic, K-Nearest Neighbour(KNN), Naïve Bayes 
+ and Support Vector Machine (SVM).
+			
+							INTRODUCTION
+	
+ Common attributes  used for  heart  disease  are Age, Sex,  Fasting  Blood  Pressure,  Chest  Pain  type, 
+ Resting ECG(test  that measures  the  electrical activity  of the  heart), Number  of  major  vessels  colored  by
+ fluoroscopy,  Threst Blood  Pressure  (high  blood  pressure),  Serum  Cholestrol (determine  the  risk  for  
+ developing  heart  disease),  Thalach (maximum heart rate achieved), ST  depression (finding on an electrocardiogram, 
+ trace in the ST segment is abnormally low below  the  baseline),  painloc  (chest  pain  location  (substernal=1,  otherwise=0)), 
+ Fasting  blood  sugar, Exang (exercise included angina),
+ smoke, Hypertension, Food habits, weight, height and  obesity[4].
+					  
+					  LITERATURE REVIEW
+
+K.  Polaraju et  al, proposed Prediction  of Heart  Disease using Multiple Regression  Model and it proves 
+that  Multiple Linear Regression is appropriate for  predicting heart disease chance. The work is performed using 
+training data set consists of  3000  instances  with  13  different  attributes  which  has mentioned earlier.
+ The data set is divided into two parts that is 70%  of  the  data  are  used  for  training  and  30%  used
+ for testing. Based on the results,it is clear that the classification accuracy of Regression algorithm is better compared to other algorithms. 
+ 
